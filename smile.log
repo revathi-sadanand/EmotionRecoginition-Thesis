@@ -1,0 +1,13 @@
+[ 12.03.2017 - 17:19:06 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 12.03.2017 - 17:19:06 ]
+    (MSG) [2] in SMILExtract : config file is: /home/julie/Downloads/opensmile-2.3.0/config/IS13_ComParE.conf
+[ 12.03.2017 - 17:19:06 ]
+    (MSG) [2] in cComponentManager : successfully registered 91 component types.
+[ 12.03.2017 - 17:19:06 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (43 component instances were finalised, 1 data memories were finalised)
+[ 12.03.2017 - 17:19:06 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 12.03.2017 - 17:19:07 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 497 ticks.
