@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98233e95-9c7c-4135-a006-13b44e1a4b2a" name="Default" comment="" />
+    <list default="true" id="98233e95-9c7c-4135-a006-13b44e1a4b2a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/MFCC12_E_D_A.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/MFCC12_E_D_A_Z.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emobase.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emobase2010.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emobase_live4.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emobase_live4_batch.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emobase_live4_batch_single.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Englishis09.arff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/ComParE_2016.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/ComParE_2016_core.func.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/ComParE_2016_core.lld.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS09_emotion.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS09_emotion_core.func.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS09_emotion_core.lld.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS10_paraling.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS10_paraling_compat.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS10_paraling_core.func.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS10_paraling_core.lld.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS11_speaker_state.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS12_speaker_trait.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS12_speaker_trait_compat.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS13_ComParE.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS13_ComParE_Voc.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS13_ComParE_core.func.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/IS13_ComParE_core.lld.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/MFCC12_0_D_A.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/MFCC12_0_D_A_Z.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/PLP_0_D_A.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/PLP_0_D_A_Z.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/PLP_E_D_A.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/PLP_E_D_A_Z.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/arff_targets.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/audspec.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/audspec_compat.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2011.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2012.readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2013.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2013_functionals_core.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2013_functionals_frame_mode.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2013_lld_core.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/avec2014.readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/chroma_fft.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/chroma_filt.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/emo_large.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/list_audio_devices.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/liveProsodyAcf.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prosodyAcf.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prosodyShs.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prosodyShsViterbiLoudness.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/BufferMode.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/BufferModeLive.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/BufferModeRb.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/BufferModeRbLag.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/FrameModeFunctionals.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/FrameModeFunctionalsLive.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/arff_targets.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/standard_data_output.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/standard_data_output_lldonly.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/shared/standard_wave_input.conf.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/smileF0.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/smileF0_base.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/smileF0_mean.conf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.englishcsv.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.mad.csv#" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/English.arff" afterPath="$PROJECT_DIR$/English.arff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arfftocsv.py" afterPath="$PROJECT_DIR$/arfftocsv.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extract_arff.py" afterPath="$PROJECT_DIR$/extract_arff.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smile.log" afterPath="$PROJECT_DIR$/smile.log" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,9 +81,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/EmotionRecog$arfftocsv.coverage" NAME="arfftocsv Coverage Results" MODIFIED="1489408734039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EmotionRecoginition-Thesis$extract_arff.coverage" NAME="extract_arff Coverage Results" MODIFIED="1490091700207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EmotionRecoginition-Thesis$arfftocsv.coverage" NAME="arfftocsv Coverage Results" MODIFIED="1490032096941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EmotionRecog$Normalization.coverage" NAME="Normalization Coverage Results" MODIFIED="1489426698621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/EmotionRecog$extract_arff.coverage" NAME="extract_arff Coverage Results" MODIFIED="1489353157827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EmotionRecog$arfftocsv.coverage" NAME="arfftocsv Coverage Results" MODIFIED="1489408734039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -20,23 +93,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Normalization.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Normalization.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Normalization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="175">
               <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generic.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/generic.py">
+      <file leaf-file-name="extract_arff.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extract_arff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="5395" column="12" lean-forward="false" selection-start-line="5395" selection-start-column="12" selection-end-line="5395" selection-end-column="12" />
+            <state relative-caret-position="202">
+              <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arfftocsv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arfftocsv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,13 +137,16 @@
       <find>read_csv</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/extract.py" />
-        <option value="$PROJECT_DIR$/extract_arff.py" />
-        <option value="$PROJECT_DIR$/arfftocsv.py" />
         <option value="$PROJECT_DIR$/Normalization.py" />
+        <option value="$PROJECT_DIR$/arfftocsv.py" />
+        <option value="$PROJECT_DIR$/extract_arff.py" />
       </list>
     </option>
   </component>
@@ -77,6 +161,9 @@
     <option name="y" value="24" />
     <option name="width" value="1301" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -93,47 +180,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionRecog" />
+              <option name="myItemId" value="EmotionRecoginition-Thesis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionRecog" />
+              <option name="myItemId" value="EmotionRecoginition-Thesis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Normalization">
-    <configuration default="false" name="arfftocsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionRecog" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arfftocsv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.extract_arff">
     <configuration default="false" name="Normalization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,15 +455,32 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="arfftocsv" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EmotionRecog" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arfftocsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.extract_arff" />
       <item index="1" class="java.lang.String" itemvalue="Python.arfftocsv" />
       <item index="2" class="java.lang.String" itemvalue="Python.Normalization" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Python.Normalization" />
-        <item index="1" class="java.lang.String" itemvalue="Python.arfftocsv" />
       </list>
     </recent_temporary>
   </component>
@@ -411,15 +499,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18754804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18754804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4918033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49177876" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -458,13 +546,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_arff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arfftocsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/extract_arff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arfftocsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_arff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -480,9 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -490,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,9 +637,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,9 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -533,9 +668,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -543,23 +676,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extract.py" />
-    <entry file="file://$PROJECT_DIR$/extract_arff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mad.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -568,69 +689,45 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.~lock.mad.csv#" />
-    <entry file="file://$PROJECT_DIR$/arfftocsv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="28" column="60" lean-forward="false" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3240">
           <caret line="381" column="5" lean-forward="false" selection-start-line="381" selection-start-column="5" selection-end-line="381" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/__init__.py" />
     <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="4123" column="8" lean-forward="false" selection-start-line="4123" selection-start-column="8" selection-end-line="4123" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/series.py">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/series.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/io/parsers.py" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/generic.py" />
+    <entry file="file://$PROJECT_DIR$/arfftocsv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="2518" column="8" lean-forward="false" selection-start-line="2518" selection-start-column="8" selection-end-line="2518" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="652" column="0" lean-forward="false" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="5395" column="12" lean-forward="false" selection-start-line="5395" selection-start-column="12" selection-end-line="5395" selection-end-column="12" />
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Normalization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="175">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_arff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="40" column="36" lean-forward="false" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

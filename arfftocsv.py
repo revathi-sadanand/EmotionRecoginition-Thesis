@@ -21,10 +21,9 @@ def getCSVFromArff(fileNameArff):
 
     headers = ",".join(cols)
 
-    with open('englishcsv' + '.csv', 'w') as fout:
+    with open('newenglishcsv' + '.csv', 'w') as fout:
         fout.write(headers)
         fout.write('\n')
         fout.writelines(data[i:])
-
-getCSVFromArff('/home/julie/PycharmProjects/EmotionRecog/English')
+getCSVFromArff('/home/julie-ju/PycharmProjects/EmotionRecog/English')
 

@@ -17,7 +17,7 @@ import ntpath
 
 # fileList = os.listdir('/home/julie/Downloads/opensmile-2.3.0/AudioData/*/')
 
-fileList = glob.glob('/home/julie/Downloads/opensmile-2.3.0/AudioData/*/*.wav')
+fileList = glob.glob('/home/julie-ju/Downloads/opensmile-2.3.0/AudioData/*/*.wav')
 classlable = ''
 
 for file in fileList:
@@ -38,7 +38,7 @@ for file in fileList:
     else:
         classlable = 'fear'
 
-    commandLine = 'SMILExtract -C /home/julie/Downloads/opensmile-2.3.0/config/IS13_ComParE.conf -I %s -O English.arff -instname %s  -classlabel %s' % (
+    commandLine = 'SMILExtract -C ./config/IS09_emotion.conf -I %s -O Englishis09.arff -instname %s  -classlabel %s' % (
         file, fileNameWithoutExtension, classlable)
     print (file)
     os.system(commandLine)
